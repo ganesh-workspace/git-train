@@ -2,4 +2,8 @@
 Ganesh is my name
 editing 
 commintin to the masin
+
 added to the merge1 branch
+
+added the change into merge2
+
