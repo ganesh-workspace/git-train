@@ -2,3 +2,4 @@
 Ganesh is my name
 editing 
 commintin to the masin
+added the change into merge2
