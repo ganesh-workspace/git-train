@@ -1,3 +1,11 @@
 \hello world
 Ganesh is my name
+
 I am making the changes into the repo
+
+editing 
+commintin to the masin
+
+added to the merge1 branch
+
+added the change into merge2
